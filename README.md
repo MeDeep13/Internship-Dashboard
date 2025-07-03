@@ -1,4 +1,4 @@
-  **END-TO-END DATA-PIPELINE FOR INTERNSHIP INSIGHTS** ( Web Scrapping | Data Cleaning | Automation | Power BI Visualization)
+  **END-TO-END DATA-PIPELINE FOR INTERNSHIP INSIGHTS**
 
 **Overview**
 
