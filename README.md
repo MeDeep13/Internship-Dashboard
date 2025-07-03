@@ -18,6 +18,7 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 * **Power BI** - Interactive dashboard and analytics
 * **Window Task Scheduler** - Automating data scraping and cleaning on log in once per day at a 15 minutes delay.
   
+## Data scraping part 📄
 
 ## Future Improvements
 * Resume parsing + skill gap analysis
