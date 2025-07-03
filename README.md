@@ -1,10 +1,10 @@
- # **END-TO-END DATA-PIPELINE FOR INTERNSHIP INSIGHTS**
+ # END-TO-END DATA-PIPELINE FOR INTERNSHIP INSIGHTS
 
-### **Overview**
+### Overview
 
 This Project is an end-to-end data analytics solution built using Python, BeautifulSoup, and Power BI. It scrapes over 6,500+ live internship listings from over 140 pages and cleans and processes the data, automates daily refreshes, and visualizes internship trends across India's various locations using an interactive Power BI dashboard.
 
-### **Why did I build it?**
+### Why did I build it?
 
 * It is mainly for students who are looking for internships by **ROLE** and **Location**, and **Compare** the **Stipend** offered as per different roles and locations.
 * It helps find Internships of any role by location and gives an estimate of the average stipend offered.
@@ -18,3 +18,13 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 * **Power BI** - Interactive dashboard and analytics
 * **Window Task Scheduler** - Automating data scraping and cleaning on log in once per day at a 15 minutes delay.
   
+
+## Future Improvements
+* Resume parsing + skill gap analysis
+* NLP-based role clustering
+* Internship recommender system
+
+  ## Contributions
+  Feel free to fork this repo and submit PRs if you'd like to
+
+##
