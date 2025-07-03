@@ -24,6 +24,10 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 ## Automation part 🤖
 
 # Few example insights
+* Most of the Technical Internships are WFH
+* **Architecture** and **Event Management** roles beat WFH over on-site roles.
+* **Delhi** has more **SEO** roles than **Mumbai**
+* **Mumbai** beats WFH in **Consultant** roles
 * 75% **Subject Matter Expert** internships are 3 months long
 * 53%-55% **SEO** and **Customer Support** internship roles are for 6 months
 * 3 and 6-month internships are most common(around 38% each) followed by 2 months of internship
