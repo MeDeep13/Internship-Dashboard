@@ -6,7 +6,7 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 
 ### Why did I build it? 🤔
 
-* It is mainly for students who are looking for internships by **ROLE** and **Location**, and **Compare** the **Stipend** offered as per different roles and locations.
+* It is mainly for students who are looking for internships by **role** and **location**, and **compare** the **Stipend** offered as per different roles and locations.
 * It helps find Internships of any role by location and gives an estimate of the average stipend offered.
 * It can also help recruiters and students understand what **Competitive Stipend** they should expect.
 
