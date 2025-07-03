@@ -24,7 +24,6 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 * NLP-based role clustering
 * Internship recommender system
 
-  ## Contributions
-  Feel free to fork this repo and submit PRs if you'd like to
+## Contributions
+ Feel free to fork this repo and submit PRs if you'd like to
 
-##
