@@ -1,1 +1,1 @@
-**This project is for educational and learning purposes only**
+**END-TO-END DATA-PIPELINE FOR INTERNSHIP INSIGHTS**
