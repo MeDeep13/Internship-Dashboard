@@ -23,6 +23,11 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 ## Power BI part 📊
 ## Automation part 🤖
 
+# Few example insights
+* 75% **Subject Matter Expert** internships are 3 months long
+* 53%-55% **SEO** and **Customer Support** internship roles are for 6 months
+* 3 and 6-month internships are most common(around 38% each) followed by 2 months of internship
+
 ## Future Improvements 🔮
 * Resume parsing + skill gap analysis
 * NLP-based role clustering
