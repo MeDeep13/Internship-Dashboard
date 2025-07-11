@@ -14,7 +14,7 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 
 * **Python** - Data scraping, preprocessing, and automation
 * **BeautifulSoup** - Web scrapping internship listings
-* ** NLP(NLTK)** - Used NLTK to extract data
+* **NLP(NLTK)** - Used NLTK to extract data
 * **Pandas** - Data manipulation and cleaning
 * **Power BI** - Interactive dashboard and analytics
 * **Window Task Scheduler** - Automating data scraping and cleaning on log in once per day at a 15 minutes delay.
