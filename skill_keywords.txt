@@ -1,0 +1,176 @@
+adaptability
+advanced excel
+android
+android studio
+angular
+ansible
+api
+api design
+api integration
+api testing
+aws
+azure
+bash
+beautifulsoup
+bert
+bitbucket
+blender
+bootstrap
+c
+c#
+c++
+canva
+chatgpt
+ci/cd
+cloud computing
+cnn
+collaboration
+communication
+computer vision
+critical thinking
+css
+csv
+cybersecurity
+cypress
+dart
+dashboards
+data analysis
+data cleaning
+data preprocessing
+data visualization
+data wrangling
+database design
+deep learning
+design patterns
+devops
+django
+docker
+elasticsearch
+english proficiency
+ethical hacking
+excel
+express.js
+fastapi
+figma
+firebase
+firewalls
+flask
+flutter
+game design
+game physics
+game testing
+gcp
+git
+github
+github actions
+gitlab
+go
+godot
+google cloud platform
+google data studio
+gpt
+gradio
+graphql
+html
+huggingface
+intellij
+ios development
+java
+java (android)
+javascript
+jenkins
+jest
+jira
+jquery
+json
+junit
+kali linux
+keras
+kotlin
+kubernetes
+leadership
+level design
+linux
+llm
+load balancing
+machine learning
+matplotlib
+microservices
+microsoft azure
+mongodb
+monolithic architecture
+mysql
+natural language processing
+networking
+next.js
+nginx
+nlp
+node.js
+nosql
+notion
+numpy
+ocr
+openGL
+openai api
+opencv
+oracle
+owasp
+pandas
+pdf parsing
+penetration testing
+photoshop
+postgresql
+postman
+power bi
+presentation skills
+problem solving
+public speaking
+pycharm
+pytest
+python
+pytorch
+r
+react
+react native
+redis
+rest api
+resume parsing
+rnn
+ruby
+sass
+scalability
+scikit-learn
+seaborn
+security testing
+selenium
+shell scripting
+slack
+sql
+sqlite
+ssl
+statistics
+streamlit
+swift
+system design
+tableau
+tailwind css
+teamwork
+tensorflow
+terraform
+test automation
+time management
+tls
+transformers
+typescript
+unit testing
+unity
+unreal engine
+visual studio
+vpn
+vscode
+vue.js
+web scraping
+webpack
+wireshark
+xd
+xml
