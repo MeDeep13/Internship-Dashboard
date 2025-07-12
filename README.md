@@ -6,7 +6,7 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 
 ### Why did I build it? 🤔
 
-* It is mainly build for students who are looking for internships by **role** and **location**, and **compare** the **Stipend** offered as per different roles and locations.
+* It is mainly built for students who are looking for internships by **role** and **location**, and **compare** the **Stipend** offered as per different roles and locations.
 * It helps find an estimate of the average stipend offered and understand what a **Competitive Stipend** should look like.
 * It can also help recruiters/companies to decide the stipend as per the market trends.
 
@@ -17,15 +17,30 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 * **NLP(NLTK)** - Used NLTK to extract data
 * **Pandas** - Data manipulation and cleaning
 * **Power BI** - Interactive dashboard and analytics
-* **Window Task Scheduler** - Automating data scraping and cleaning on log in once per day at a 15 minutes delay.
+* **Window Task Scheduler** - Automating data scraping and cleaning on log in once per day at a 15-minute delay.
   
 ## Data scraping part 📄
+* I scraped over 140 pages and a total of around 6500 internships, with headers and a random sleep of 1 or 2 seconds between each iteration to not extract data recklessly
+* The data I scraped included 1) role, 2) location, 3) duration, 4) stipend, 5) time posted, 6) skills, 7) number of applicants
+* I used a nested for loop for data collection ( because I need to access each of the internships' links to access the required skills and number of applicants
+  
 ## Data Cleaning part 🧹
+* Data cleaning was done along with EDA
+* Many internships have more than one location, so I exploded the locations and broke one row into many with 1 location each.
+* Created new columns of skill_match using NLP's NLTK library
+* Major data cleaning included- removing duplicates, standardization, many roles fell into the same category, but had different names, so unification of names was also done.
+* Converting the data types of columns
+* The range of stipend was converted into the average stipend.
 ## NLP
+* Parsed skills from the resume and found % match of the candidate for each of the roles.
+* 
+* I included the NLP part in the Data Cleaning script itself.
+  
 ## Power BI part 📊
+*
 ## Automation part 🤖
 
-# Few example insights
+# A few example insights
 * Most of the Technical Internships are WFH.
 * Most of the **Talent acquisition** and **Recruitment** roles are on-site.
 * **Architecture** and **Event Management** roles beat WFH over on-site roles.
