@@ -2,7 +2,7 @@
 
 ### Overview 📌
 
-This Project is an end-to-end data analytics solution built using Python, BeautifulSoup, and Power BI. It scrapes over 6,500+ live internship listings from over 140 pages and cleans and processes the data, automates daily refreshes, and visualizes internship trends across India's various locations using an interactive Power BI dashboard.
+This Project is an end-to-end data analytics solution built using Python, NLP(NLTK), BeautifulSoup, Power BI, and Task Scheduler for automation. It scrapes over 6,500 live internship listings from more than 140 pages, cleans and processes the data, automates daily refreshes, and visualizes internship trends across India's various locations using an interactive Power BI dashboard.
 
 ### Why did I build it? 🤔
 
