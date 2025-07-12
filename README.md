@@ -52,9 +52,10 @@ This Project is an end-to-end data analytics solution built using Python, Beauti
 * 3 and 6-month internships are most common(around 38% each) followed by 2 months of internship
 
 ## Future Improvements 🔮
-* Resume parsing + skill gap analysis
-* NLP-based role clustering
-* Internship recommender system
+* ~~Resume parsing + skill gap analysis~~
+* Use of advanced libraries like Spacy in place of NLTK
+* NLP-based role clustering 
+* ~~Internship recommender system~~
 
 ## Contributions 🤝
  Feel free to fork this repo and submit PRs if you'd like to
