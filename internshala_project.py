@@ -79,14 +79,7 @@ for i in range(1,140):
     durations= durations[2::3]
     posted= [ ago.text.strip() for ago in how_ago]
     #
-    # for x in range(len(roles)): # here we assumed that each col of same length but that might not be true always
-    #     df.loc[row, 'Role']= roles[x]
-    #     df.loc[row, 'Company']= companies[x]
-    #     df.loc[row, 'Location']= locations[x]
-    #     df.loc[row, 'Stipend']= stipends[x]
-    #     df.loc[row, 'Duration']= durations[x]
-    #     df.loc[row, 'Posted']= posted[x]
-    #     row+=1
+    
     for r, c, l, s, d, p in zip(roles, companies, locations, stipends, durations, posted): # zip stops at shortest list automatically
         df.loc[row, 'Role'] = r
         df.loc[row, 'Company'] = c
@@ -215,6 +208,7 @@ df.to_csv(r"C:\Users\kulde\OneDrive\Desktop\data analytics\python\projects\raw_d
 
 
 # In[ ]:
+
 
 
 
